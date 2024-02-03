@@ -1,4 +1,3 @@
-# test Senoee
 
 ## FastAPI Application with PostgreSQL and docker
 
